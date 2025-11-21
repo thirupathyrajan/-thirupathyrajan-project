@@ -1,0 +1,1 @@
+{'encoder_len': 30, 'decoder_len': 10, 'n_features': 3, 'baseline_units': 64, 'attn_enc_units': 64, 'attn_dec_units': 64, 'attn_units': 32, 'lr': 0.001, 'batch_size': 32, 'epochs_trained': {'baseline': 16, 'attention': 10}}
